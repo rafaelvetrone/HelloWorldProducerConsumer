@@ -3,3 +3,9 @@
 ################################################################################
 
 /src/.vs/src/DesignTimeBuild/.dtbcache
+/src/.vs/src/v15/Server/sqlite3
+/src/.vs/src/v15/.suo
+/src/HelloWorldProducerConsumer/.vs/HelloWorldProducerConsumer/v15/Server/sqlite3
+/src/HelloWorldProducerConsumer/.vs/HelloWorldProducerConsumer/v15/.suo
+/src/HelloWorldProducerConsumer/obj/Debug/netcoreapp2.1
+/src/HelloWorldProducerConsumer/obj
